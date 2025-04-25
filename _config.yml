@@ -23,7 +23,9 @@ url: "https://danmuzi.github.io"
 baseurl: ""
 
 # 사용할 Jekyll 테마
-theme: minima
+theme: Slate
+
+markdown: kramdown
 
 # 팀원 정보 (필요에 따라 수정)
 team_members:
