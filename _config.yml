@@ -23,7 +23,7 @@ url: "https://danmuzi.github.io"
 baseurl: ""
 
 # 사용할 Jekyll 테마
-theme: Slate
+theme: minima
 
 markdown: kramdown
 
